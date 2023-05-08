@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Douyu",Roieee
-http://192.168.50.2:35455/douyu/10722927
+http://192.168.50.2:5678/ZB.php?douyuid=10722927
 #EXTINF:-1 group-title="Douyu",3MZ
 http://192.168.50.2:35455/douyu/1667826
 #EXTINF:-1 group-title="Douyu",Pite174
